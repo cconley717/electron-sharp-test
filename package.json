@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "electron-forge start",
-    "startElectron": "electron main.js",
+    "startApp": "electron main.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "package": "electron-forge package",
     "make": "electron-forge make"
