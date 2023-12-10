@@ -2,7 +2,7 @@
   "name": "electron-sharp-test",
   "version": "1.0.0",
   "description": "just trying to get sharp working with electron",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
     "startApp": "electron main.js",
