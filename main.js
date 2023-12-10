@@ -1,4 +1,7 @@
 const { app, BrowserWindow } = require("electron");
+require("./index.js");
+
+/*
 try{
     require("./index.js");
 }
@@ -6,7 +9,7 @@ catch(e) {
     console.log(e);
     return;
 }
-
+*/
 
 if (handleSquirrelEvent()) {
     return;
