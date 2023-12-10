@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cconley717/sharp-test.git"
+    "url": "git+https://github.com/cconley717/electron-sharp-test.git"
   },
   "author": "Christopher Conley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cconley717/sharp-test/issues"
+    "url": "https://github.com/cconley717/electron-sharp-test/issues"
   },
-  "homepage": "https://github.com/cconley717/sharp-test#readme",
+  "homepage": "https://github.com/cconley717/electron-sharp-test#readme",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
     "express": "^4.18.2",
